@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Shivam Shukla
+# 👋 Hi, I'm Gaurav Rathore
 
 🎓 **B.Tech in Computer Science** @ Shri Ramswaroop Memorial University, Lucknow  
-📘 **B.S. in Data Science** @ IIT Madras, Chennai  
+📘 **B.S. in Data Science** @ Shri Ramwaroop Memorial University
 💻 **Aspiring Data Scientist | Full-Stack Developer | Cybersecurity Enthusiast**
 
 ---
@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Advanced Data Structures & Algorithms** and **MySQL**
 - 🛠️ Working on exciting projects like **Job Trends Analyzer** and **Global Call Automation System**
 - ⚙️ Skilled in **Python, C++, Flask, HTML/CSS/JS, Git**, and **cybersecurity tools**
-- 📫 Reach me at **lucifer84670@gmail.com** or **LinkedIn**
+- 📫 Reach me at **gauravsinghrathorethakur@gmail.com** or **LinkedIn**
 - ⚡ Fun fact: I love building automation tools and analyzing real-world data
 
 ---
