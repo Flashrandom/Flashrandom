@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Gaurav Rathore
 
 🎓 **B.Tech in Computer Science** @ Shri Ramswaroop Memorial University, Lucknow  
-📘 **B.S. in Data Science** @ Shri Ramwaroop Memorial University
-💻 **Aspiring Data Scientist | Full-Stack Developer | Cybersecurity Enthusiast**
+💻 **Aspiring Data Scientist | Full-Stack Developer | **
 
 ---
 
