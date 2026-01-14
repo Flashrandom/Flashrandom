@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1 align="center">Hi there 👋, I'm Nitya Gosain</h1>
 🔭 I’m currently working on:<br>Building personal web projects, portfolio websites & learning full-stack development.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, web development, and creative UI/UX based websites.<br><br>🤝 I’m looking for help with:<br>Backend integration, API handling, and learning advanced JavaScript / Python frameworks.<br><br>🌱 I’m currently learning:<br>JavaScript, React.js, Python Flask, and basic Database (MySQL).<br><br>💬 Ask me about:<br>Web design, HTML, CSS, JavaScript, responsiveness, and portfolio building.<br><br>⚡ Fun fact:<br>I break things while coding… and then fix them like a pro 😎
 
 
