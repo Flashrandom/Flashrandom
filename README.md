@@ -7,5 +7,5 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Flashrandom?theme=dark&font=Nunito&ext=heatmap&border=0" />
+  <img src="https://leetcard.jacoblin.cool/Flashrandom?theme=dark&font=Nunito&ext=heatmap&border=0" /> 
 </p>
